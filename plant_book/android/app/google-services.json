@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1099340900582",
+    "project_id": "plantbook-f4042",
+    "storage_bucket": "plantbook-f4042.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099340900582:android:70709ee5cbcac74af7f327",
+        "android_client_info": {
+          "package_name": "com.example.plant_book"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7VKzQrg9IRkL9Ko_n-G4_hV4HPHzAjnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
