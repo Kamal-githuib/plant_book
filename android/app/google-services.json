@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "687447079571",
+    "project_id": "plantbook-efe67",
+    "storage_bucket": "plantbook-efe67.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687447079571:android:b083ef153de5a520faab66",
+        "android_client_info": {
+          "package_name": "com.example.plant_book"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiDDaXEwozoiBXNBOQZBXPIFCBWna6JxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
